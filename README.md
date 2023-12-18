@@ -18,4 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-![photo](/patika.png)
+![photo](/logo.png) 
